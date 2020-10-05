@@ -1,1 +1,3 @@
-hh
+git remote set-url origin git@github.com:zyy4676/firstForTest
+
+zyy4676/firstForTest
