@@ -7,6 +7,7 @@
 7
 8
 9
+
 void insert(){
 hhh.txt
 }
@@ -19,4 +20,16 @@ void select(){
 void updata(){
 
  updata,txt
+ }
+
+void zyy(){
+ zyy zyy
+}
+
+public yyy(){
+ yyy yyy
+}
+
+private hhh(){
+	hhh hhh
 }
