@@ -7,7 +7,16 @@
 7
 8
 9
+void insert(){
+hhh.txt
+}
+
+void select(){
+ get .xt
+}
 
 
+void updata(){
 
-
+ updata,txt
+}
